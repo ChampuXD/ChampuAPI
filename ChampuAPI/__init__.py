@@ -666,7 +666,7 @@ class ChampuAPI:
 
     Example usage:
     >>> from ChampuAPI import api
-    >>> search_results = api.repo("TheChampuBot")
+    >>> search_results = api.repo("MukeshRobot")
     >>> print(search_results)
     """
         
