@@ -19,7 +19,7 @@ class ChampuAPI:
     
     def __init__(self)->None:
         """Api for various purpose
-    support group : https://t.me/the_support_chat
+    support group : https://t.me/TheChampuClub
     owner : @TheChampu
         """
         pass
